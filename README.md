@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tanish2028/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish2028/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -30,10 +31,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish2028/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish2028/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -43,4 +46,12 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish2028/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
