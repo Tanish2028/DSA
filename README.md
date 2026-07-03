@@ -7,11 +7,13 @@
 | [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanish2028/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tanish2028/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish2028/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tanish2028/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,10 +71,12 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanish2028/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanish2028/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -81,4 +85,13 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanish2028/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
