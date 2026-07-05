@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
+| [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanish2028/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tanish2028/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
@@ -80,6 +81,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanish2028/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -89,6 +91,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
