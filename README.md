@@ -110,4 +110,8 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Tanish2028/DSA/tree/master/0031-next-permutation) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tanish2028/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
