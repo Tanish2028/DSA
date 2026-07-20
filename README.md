@@ -8,6 +8,7 @@
 | [0056-merge-intervals](https://github.com/Tanish2028/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Tanish2028/DSA/tree/master/0229-majority-element-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
+| [1260-shift-2d-grid](https://github.com/Tanish2028/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Tanish2028/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanish2028/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -106,6 +107,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Tanish2028/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanish2028/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -166,5 +168,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Tanish2028/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tanish2028/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
