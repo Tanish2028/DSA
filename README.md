@@ -8,6 +8,7 @@
 | [0056-merge-intervals](https://github.com/Tanish2028/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Tanish2028/DSA/tree/master/0229-majority-element-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Tanish2028/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Tanish2028/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -123,6 +124,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tanish2028/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
@@ -139,6 +141,7 @@
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanish2028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tanish2028/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanish2028/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -177,4 +180,16 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Tanish2028/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tanish2028/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
