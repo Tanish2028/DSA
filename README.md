@@ -97,6 +97,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Tanish2028/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Tanish2028/DSA/tree/master/0841-keys-and-rooms) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanish2028/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tanish2028/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -105,6 +106,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Tanish2028/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Tanish2028/DSA/tree/master/0841-keys-and-rooms) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tanish2028/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanish2028/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -165,6 +167,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Tanish2028/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Tanish2028/DSA/tree/master/0841-keys-and-rooms) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tanish2028/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Tanish2028/DSA/tree/master/3310-remove-methods-from-project) |
@@ -203,4 +206,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Tanish2028/DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Tanish2028/DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
