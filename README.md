@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanish2028/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Tanish2028/DSA/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Tanish2028/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Tanish2028/DSA/tree/master/0229-majority-element-ii) |
@@ -58,6 +59,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanish2028/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Tanish2028/DSA/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/Tanish2028/DSA/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanish2028/DSA/tree/master/1331-rank-transform-of-an-array) |
