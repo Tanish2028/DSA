@@ -14,6 +14,7 @@
 | [1288-remove-covered-intervals](https://github.com/Tanish2028/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanish2028/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Tanish2028/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanish2028/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanish2028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish2028/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -65,6 +66,7 @@
 | [0229-majority-element-ii](https://github.com/Tanish2028/DSA/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanish2028/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish2028/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Tanish2028/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Tanish2028/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish2028/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanish2028/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -235,4 +237,12 @@
 |  |
 | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Tanish2028/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Tanish2028/DSA/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Tanish2028/DSA/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
