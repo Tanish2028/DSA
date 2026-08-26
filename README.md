@@ -10,6 +10,7 @@
 | [0229-majority-element-ii](https://github.com/Tanish2028/DSA/tree/master/0229-majority-element-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/Tanish2028/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Tanish2028/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -66,6 +67,7 @@
 | [0001-two-sum](https://github.com/Tanish2028/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Tanish2028/DSA/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/Tanish2028/DSA/tree/master/0229-majority-element-ii) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanish2028/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish2028/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Tanish2028/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -186,6 +188,7 @@
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Tanish2028/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Tanish2028/DSA/tree/master/0841-keys-and-rooms) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Tanish2028/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tanish2028/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Tanish2028/DSA/tree/master/3310-remove-methods-from-project) |
@@ -236,6 +239,7 @@
 ## Tree
 |  |
 | ------- |
+| [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Tanish2028/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## DP on Trees
 |  |
@@ -249,4 +253,8 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Tanish2028/DSA/tree/master/1386-cinema-seat-allocation) |
+## Binary Tree
+|  |
+| ------- |
+| [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
