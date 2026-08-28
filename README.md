@@ -120,6 +120,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Tanish2028/DSA/tree/master/0279-perfect-squares) |
 | [0797-all-paths-from-source-to-target](https://github.com/Tanish2028/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Tanish2028/DSA/tree/master/0841-keys-and-rooms) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Tanish2028/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -157,6 +158,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Tanish2028/DSA/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tanish2028/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -174,6 +176,7 @@
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Tanish2028/DSA/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanish2028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tanish2028/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -266,4 +269,12 @@
 |  |
 | ------- |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Tanish2028/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Tanish2028/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
