@@ -28,6 +28,7 @@
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tanish2028/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Tanish2028/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tanish2028/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Tanish2028/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
 | [3731-find-missing-elements](https://github.com/Tanish2028/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish2028/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -166,6 +167,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Tanish2028/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tanish2028/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Tanish2028/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
