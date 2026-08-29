@@ -11,6 +11,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Tanish2028/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Tanish2028/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1260-shift-2d-grid](https://github.com/Tanish2028/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Tanish2028/DSA/tree/master/1288-remove-covered-intervals) |
@@ -34,6 +35,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Tanish2028/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tanish2028/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tanish2028/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
@@ -49,6 +51,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Tanish2028/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Tanish2028/DSA/tree/master/0229-majority-element-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Tanish2028/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/Tanish2028/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanish2028/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanish2028/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -160,6 +163,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/Tanish2028/DSA/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Tanish2028/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tanish2028/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
