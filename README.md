@@ -116,6 +116,7 @@
 ## String
 |  |
 | ------- |
+| [0926-flip-string-to-monotone-increasing](https://github.com/Tanish2028/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Tanish2028/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish2028/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Tanish2028/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/Tanish2028/DSA/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
+| [0926-flip-string-to-monotone-increasing](https://github.com/Tanish2028/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Tanish2028/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tanish2028/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
