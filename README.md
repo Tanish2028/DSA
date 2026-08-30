@@ -20,6 +20,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Tanish2028/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanish2028/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanish2028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Tanish2028/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish2028/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanish2028/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tanish2028/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Tanish2028/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Tanish2028/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Tanish2028/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
