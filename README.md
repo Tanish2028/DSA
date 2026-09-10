@@ -211,6 +211,7 @@
 | [0841-keys-and-rooms](https://github.com/Tanish2028/DSA/tree/master/0841-keys-and-rooms) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Tanish2028/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanish2028/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tanish2028/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Tanish2028/DSA/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
@@ -264,6 +265,7 @@
 | ------- |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Tanish2028/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanish2028/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 |  |
 | ------- |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanish2028/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Knapsack Problem
 |  |
 | ------- |
