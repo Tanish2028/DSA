@@ -28,6 +28,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tanish2028/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tanish2028/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Tanish2028/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanish2028/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tanish2028/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Tanish2028/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
@@ -82,6 +83,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish2028/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanish2028/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Tanish2028/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanish2028/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tanish2028/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Tanish2028/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Tanish2028/DSA/tree/master/3731-find-missing-elements) |
@@ -219,6 +221,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Tanish2028/DSA/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanish2028/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanish2028/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Tanish2028/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Tanish2028/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
@@ -294,4 +297,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Tanish2028/DSA/tree/master/0279-perfect-squares) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanish2028/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
