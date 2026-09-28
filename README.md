@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Tanish2028/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Tanish2028/DSA/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Tanish2028/DSA/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/Tanish2028/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Tanish2028/DSA/tree/master/0229-majority-element-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Tanish2028/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanish2028/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Tanish2028/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Tanish2028/DSA/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/Tanish2028/DSA/tree/master/0229-majority-element-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
@@ -204,6 +206,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tanish2028/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tanish2028/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tanish2028/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
