@@ -121,6 +121,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tanish2028/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Tanish2028/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Tanish2028/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish2028/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -169,6 +170,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tanish2028/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0279-perfect-squares](https://github.com/Tanish2028/DSA/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/Tanish2028/DSA/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Tanish2028/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -314,4 +316,12 @@
 | [1148-article-views-i](https://github.com/Tanish2028/DSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Tanish2028/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Tanish2028/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tanish2028/DSA/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tanish2028/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
