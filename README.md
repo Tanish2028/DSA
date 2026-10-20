@@ -21,6 +21,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Tanish2028/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanish2028/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanish2028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanish2028/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tanish2028/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanish2028/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish2028/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Tanish2028/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanish2028/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tanish2028/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tanish2028/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Tanish2028/DSA/tree/master/3620-network-recovery-pathways) |
@@ -61,6 +63,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Tanish2028/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/Tanish2028/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanish2028/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanish2028/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanish2028/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tanish2028/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanish2028/DSA/tree/master/3536-maximum-product-of-two-digits) |
