@@ -202,6 +202,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanish2028/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanish2028/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tanish2028/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tanish2028/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tanish2028/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Tanish2028/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tanish2028/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -289,6 +290,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Tanish2028/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tanish2028/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Tanish2028/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tanish2028/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanish2028/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
