@@ -14,6 +14,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Tanish2028/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Tanish2028/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1254-number-of-closed-islands](https://github.com/Tanish2028/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Tanish2028/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Tanish2028/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -141,6 +142,7 @@
 | [0279-perfect-squares](https://github.com/Tanish2028/DSA/tree/master/0279-perfect-squares) |
 | [0797-all-paths-from-source-to-target](https://github.com/Tanish2028/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Tanish2028/DSA/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/Tanish2028/DSA/tree/master/1254-number-of-closed-islands) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Tanish2028/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanish2028/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tanish2028/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -164,6 +166,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Tanish2028/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Tanish2028/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanish2028/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanish2028/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -216,6 +219,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tanish2028/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Tanish2028/DSA/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tanish2028/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tanish2028/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
@@ -224,6 +228,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Tanish2028/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Tanish2028/DSA/tree/master/0841-keys-and-rooms) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tanish2028/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1254-number-of-closed-islands](https://github.com/Tanish2028/DSA/tree/master/1254-number-of-closed-islands) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Tanish2028/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanish2028/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tanish2028/DSA/tree/master/2685-count-the-number-of-complete-components) |
